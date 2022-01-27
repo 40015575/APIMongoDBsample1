@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "61f1431b0f606f0454c6874f"
+  },
+  "DepartmentId": "1",
+  "DepartmentName": "IT"
+},{
+  "_id": {
+    "$oid": "61f1442e0f606f0454c68750"
+  },
+  "DepartmentId": "2",
+  "DepartmentName": "Support"
+},{
+  "_id": {
+    "$oid": "61f28a5ced7eb487a39cc7c8"
+  },
+  "DepartmentId": 3,
+  "DepartmentName": "Embedded"
+}]
